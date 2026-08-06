@@ -6,19 +6,6 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você está preparado para o teste? ",
-
-        alternativas: [
-            {
-                texto: "Sim",
-                afirmacao: ""
-            },
-            {
-                texto: "Lógico",
-                afirmacao: ""
-            }
-        ]
-    },{
         enunciado: "Qual dança é considerada um símbolo do Carnaval brasileiro?",
 
         alternativas: [
